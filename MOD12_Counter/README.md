@@ -27,10 +27,7 @@ Test cases covered:
 * Counter rollover
 * Reset behavior
 
-## Files
 
-* `design.v`
-* `tb.v`
 
 ## Tools Used
 
