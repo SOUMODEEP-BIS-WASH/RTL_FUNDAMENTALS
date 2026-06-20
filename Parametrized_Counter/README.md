@@ -31,11 +31,6 @@ Test cases covered:
 * Reset
 * Hold state
 
-## Files
-
-* `up_counter.v`
-* `down_counter.v`
-* `tb.v`
 
 ## Tools Used
 
