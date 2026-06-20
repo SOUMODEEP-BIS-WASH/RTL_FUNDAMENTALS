@@ -27,10 +27,7 @@ Test cases covered:
 * Shift operation
 * Feedback sequence generation
 
-## Files
 
-* `design.v`
-* `tb.v`
 
 ## Tools Used
 
