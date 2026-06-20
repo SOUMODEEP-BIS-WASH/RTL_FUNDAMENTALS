@@ -29,10 +29,7 @@ Test cases covered:
 * Reset operation
 * Preset loading
 
-## Files
 
-* `design.v`
-* `tb.v`
 
 ## Tools Used
 
