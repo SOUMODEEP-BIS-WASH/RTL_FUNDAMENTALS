@@ -31,10 +31,6 @@ Test cases covered:
 * Parallel load
 * Hold state
 
-## Files
-
-* `design.v`
-* `tb.v`
 
 ## Tools Used
 
