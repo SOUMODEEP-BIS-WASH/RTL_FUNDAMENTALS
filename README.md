@@ -146,10 +146,3 @@ This repository demonstrates practical implementation of:
 * Multi-Module Integration
 
 ---
-
-## Future Improvements
-
-* Add synthesis reports
-* Add timing analysis
-* Add SystemVerilog testbenches
-* Add assertions and functional coverage
