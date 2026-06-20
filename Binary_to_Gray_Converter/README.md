@@ -22,10 +22,6 @@ Gray code is widely used in digital systems where minimizing bit transitions is 
 
 Exhaustive verification performed for all 4-bit input combinations.
 
-## Files
-
-* `design.v`
-* `tb.v`
 
 ## Tools Used
 
