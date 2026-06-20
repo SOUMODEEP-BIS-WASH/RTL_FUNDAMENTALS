@@ -29,10 +29,7 @@ Test cases covered:
 * Data loading
 * Hold state
 
-## Files
 
-* `design.v` → Register RTL
-* `tb.v` → Testbench
 
 ## Tools Used
 
